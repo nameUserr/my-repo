@@ -1,5 +1,5 @@
 # python
-venv_test
+/venv*
 **/__pycache__
 aliddns.py
 高德天气API.py
