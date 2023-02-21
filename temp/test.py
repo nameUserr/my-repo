@@ -1,3 +1,5 @@
+import pandas as pd
 import numpy as np
 
-print([i for i in np.arange(-9, np.ceil(10), 19 / 5)])
+df = pd.read_excel('县公司购电成本.xlsx')
+print(df)
