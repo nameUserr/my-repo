@@ -3,4 +3,4 @@
 **/__pycache__
 aliddns.py
 高德天气API.py
-*.xlsx
+**/*.xlsx
