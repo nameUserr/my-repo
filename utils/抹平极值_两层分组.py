@@ -41,7 +41,7 @@ if __name__ == '__main__':
 
     # print_prompt('执行sql')
     # print(sql)
-    data = pd.read_excel('C:/Users/JackWu/Desktop/度电营销成本(售电量)-带SQL.xlsx')
+    data = pd.read_excel('度电营销成本(售电量)-带SQL.xlsx')
     # 转换数据格式
     for t in target_names:
         data[t] = data[t].astype(float)
