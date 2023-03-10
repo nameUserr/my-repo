@@ -4,4 +4,4 @@
 aliddns.py
 高德天气API.py
 **/*.xlsx
-/temp/test.py
+temp/test.py
